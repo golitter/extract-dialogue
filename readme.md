@@ -1,6 +1,6 @@
 # extract-dialogue-MajoTabi
 
-本仓库fork了[KMnO4-zx/extract-dialogue: 从小说中提取对话数据集 (github.com)](https://github.com/KMnO4-zx/extract-dialogue/tree/master)仓库用来提取轻小说《魔女之旅》中的伊雷娜对话信息，之后处理成Alpaca格式供以微调。
+本仓库fork于[KMnO4-zx/extract-dialogue: 从小说中提取对话数据集 (github.com)](https://github.com/KMnO4-zx/extract-dialogue/tree/master)仓库，用来提取轻小说《魔女之旅》中的伊雷娜对话信息，之后处理成Alpaca格式供以微调。
 
 已从轻小说中提取2万＋的对话集，之后手动处理了二百条数据。
 
